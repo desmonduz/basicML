@@ -1,7 +1,6 @@
-# Zero to Deep Learning™ Udemy Video Course
+# Data Analysis and Machine Learning
 
-
-Welcome to the Zero to Deep Learning Video Course repository
+This repo has been forked from Zero to Deep Learning repository and prepared by Jose Portila.
 
 ## Get started guide
 
